@@ -8,6 +8,12 @@ This project models a two-road traffic intersection using an Arduino UNO. The co
 
 The physical prototype is built on a cardboard intersection model with LED traffic signals.
 
+## Project Demo
+
+🎥 **Watch the project demonstration on YouTube:**
+
+[▶️ Smart Traffic Intersection Controller — Project Demo](https://youtu.be/bkf5hwU1JY0)
+
 ## Features
 
 - 🚦 Two-road traffic signal control
@@ -135,6 +141,8 @@ smart-traffic-intersection-controller/
 │   │   └── SmartTrafficController.ino
 │   └── HardwareTest/
 │       └── HardwareTest.ino
+├── Images/
+│   └── .gitkeep
 └── README.md
 ```
 
